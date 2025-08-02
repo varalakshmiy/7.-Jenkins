@@ -1,3 +1,5 @@
+
+https://kkdevops.hashnode.dev/getting-started-with-jenkins-cicd-guide
 Jenkins by KK FUNDA
 ====================
 
@@ -32,7 +34,7 @@ Advantages  of Jenkins
 
 Continuous Integration[CI]:
 ==========================
-
+when the developer is developed into scm repository,jenkins will identify the updated codeit will taje updated code it will build artifactory,and generate sonarqube code quality report.we r keeping artifaactory in to nexus repository for backup.
 ---> explain diagram 
 
 Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control.
