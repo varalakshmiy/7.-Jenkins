@@ -148,7 +148,7 @@ JENKINS Installation
 
 --> LTS[Long Term Support] ---> stable version without any issues.
 --> search on google [ download jenkins ] --> LTS --> Redhat/fedora/centos
-
+launch redhat machine
 
 step 1: sudo su -
 
@@ -189,7 +189,7 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 
 step 6:
 
-click on suggested plugins
+click on install suggested plugins
 
 step 7:
 
