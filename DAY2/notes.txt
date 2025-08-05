@@ -22,7 +22,10 @@ pls use github link
 
 
 Automate all the tasks using jenkins
+
 =====================================
+cd /var/lib/jenkins   ---=default dir for jenkins
+------------------
 
 How to create a job
 ===================
