@@ -5,7 +5,7 @@ enable and diable the project(jobs)
 
 
 
-
+enable and disable plugins
 
 Plugins in jenkins server
 =========================
@@ -21,7 +21,9 @@ maven integration
 
 if you want to create a maven project type then use this plugin.
 
-
+different b/w maven job ad freestyle job
+--------------------------------------
+plugins----avail plugins----maven integration
 safeRestart
 ===========
 
@@ -34,14 +36,14 @@ safeRestart -->http://65.0.199.60:8080/safeRestart
 
 IQ] what is the difference between restart and safeRestart ?
 
-restart: It will stop the running jobs and then restarted
+restart: It will abort the running jobs and then restarted
 
 safeRestart: It will wait for complition of all the jobs and restarted
 
 
 NOTE: for safeRestart we have plugin called as a safeRestart, Install and try it
 
-
+be careful with prod env with restart and saferestart
 
 
 next Build Number
@@ -138,4 +140,5 @@ NOTE: under the source code section pass the names
 
 
 How to create a view?
+if we delete view job also deleter permenently:no only view deleted ,not job
 =====================
