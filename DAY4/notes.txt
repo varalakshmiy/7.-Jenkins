@@ -142,3 +142,4 @@ NOTE: under the source code section pass the names
 How to create a view?
 if we delete view job also deleter permenently:no only view deleted ,not job
 =====================
+IQ:-individual plugin  or overall plugin exp
